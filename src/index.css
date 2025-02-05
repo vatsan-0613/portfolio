@@ -1,0 +1,92 @@
+.green{
+  color : #173C4C;
+}
+
+.hanuman{
+  font-family: "Hanuman", serif;
+}
+
+.poppins{
+  font-family: "Poppins", serif;
+}
+
+.big-text{
+  font-weight: 700;
+  font-size: 96px;
+}
+
+.small-text{
+  font-size: 36px;
+}
+
+.green-button{
+  background-color: #173C4C;
+  color : #fff;
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 30px;
+}
+
+.image-two{
+  width: 600px;
+}
+
+
+.section{
+  margin-top: 10%;
+}
+
+.small-container{
+  width: 55%;
+  font-size: 24px;
+}
+
+.heading-text{
+  font-size: 54px;
+  font-weight: 600;
+  color :#173C4C;
+  text-decoration: underline;
+}
+
+.stats{
+  font-size: 54px;
+  font-weight: 600;
+  color :#173C4C;
+}
+
+.mini-text{
+  font-size: 24px;
+  color :#173C4C;
+  font-weight: 500;
+}
+
+.line{
+  border-bottom: 4px solid #173C4C;
+  height: 2px;
+  width: 200px;
+  margin-top: 33px;
+}
+
+li::marker {
+  color: red;
+}
+
+.green-bullet::marker{
+  color : green !important;
+}
+
+li{
+  font-size: 24px;
+}
+
+.blue-txt{
+  color : #52819C;
+}
+
+.no-dec{
+  text-decoration: none;
+}
+
+.chart-img{
+  width: 100%;
+}
